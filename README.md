@@ -14,7 +14,7 @@ Why dogs? We chose dogs because, well, who doesn’t love looking at photos of a
 
 Generative methods (in particular, GANs) are currently used in various places on Kaggle for data augmentation. Their potential is vast; they can learn to mimic any distribution of data across any domain: photographs, drawings, music, and prose. If successful, not only will you help advance the state of the art in generative image creation, but you’ll enable us to create more experiments across a variety of domains in the future.
 
-
+https://pic4.zhimg.com/v2-f6ce32e325de1f56fe06811de767084c_1200x500.jpg
 MiFID
 
 Submissions are evaluated on MiFID (Memorization-informed Fréchet Inception Distance), which is a modification from Fréchet Inception Distance (FID).
